@@ -1,0 +1,8 @@
+5d4
+< link cannot be associated with bus line.
+7c6
+< Paragem1, Paragem2
+---
+> Paragem1, Paragem2, Paragem3
+9a9
+> Paragem3 2: Carreira1 Carreira2

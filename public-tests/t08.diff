@@ -1,0 +1,8 @@
+5,7c5,7
+< link cannot be associated with bus line.
+< Paragem1, Praça Espanha
+< Carreira1 Paragem1 Praça Espanha 2 0.50 2.00
+---
+> Carreira3: no such line.
+> Paragem1, Praça Espanha, Paragem 2
+> Carreira1 Paragem1 Paragem 2 3 1.30 5.00

@@ -1,0 +1,11 @@
+4,8c4,7
+< link cannot be associated with bus line.
+< Paragem1, Paragem 2
+< Praça Espanha, Paragem 2
+< Carreira1 Paragem1 Paragem 2 2 1.20 4.20
+< Carreira2 Praça Espanha Paragem 2 2 0.80 3.00
+---
+> Paragem1, Paragem 2, Praça Espanha
+> Paragem1, Praça Espanha, Paragem 2
+> Carreira1 Paragem1 Praça Espanha 3 1.70 6.20
+> Carreira2 Paragem1 Paragem 2 3 1.70 6.00
